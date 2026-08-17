@@ -1,0 +1,7 @@
+# Build output
+/gofract
+/gofract.exe
+
+# Exported images and parameter files land in the working directory
+/gofract-*.png
+/gofract.json
